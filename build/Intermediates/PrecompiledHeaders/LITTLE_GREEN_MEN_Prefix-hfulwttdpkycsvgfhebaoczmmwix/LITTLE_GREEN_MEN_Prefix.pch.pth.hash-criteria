@@ -1,0 +1,24 @@
+Contents of /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/LITTLE_GREEN_MEN_Prefix.pch
+3.1 (tags/Apple/clang-318.0.58) (based on LLVM 3.1svn)
+arm-apple-darwin11.3.0
+-x
+c
+-arch
+armv7
+-fmessage-length=0
+-std=c99
+-fpascal-strings
+-Os
+-DESSENTIAL_GL_PRACTICES_IPHONE_OS
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+-g
+-fvisibility=hidden
+-mthumb
+-miphoneos-version-min=5.1
+-iquote
+-iquote
+-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/include
+-F/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos
+-DNS_BLOCK_ASSERTIONS=1
+SDK_PRODUCT_BUILD_VERSION=9B176

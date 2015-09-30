@@ -1,0 +1,1 @@
+    glDeleteProgram(goldenSunset_SHADER); 

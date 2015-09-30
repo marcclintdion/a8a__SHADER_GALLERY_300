@@ -1,0 +1,1 @@
+glDeleteProgram(SHADER_shadow);

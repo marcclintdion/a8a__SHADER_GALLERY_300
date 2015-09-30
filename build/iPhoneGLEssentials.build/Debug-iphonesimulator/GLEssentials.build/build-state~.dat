@@ -1,0 +1,857 @@
+TGLEssentials
+v7
+r0
+t355734575.095565
+cCheck dependencies
+cProcessInfoPlistFile /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/Info.plist iPhoneGLEssentials-Info.plist
+cProcessPCH /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-dglkrzwbkqmnbgborffyrtjsewzn/iPhoneGLEssentials_Prefix.pch.gch iPhoneGLEssentials_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-evtfvefpdlyurqeirvapdspoohds/iPhoneGLEssentials_Prefix.pch.gch iPhoneGLEssentials_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/main.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/OpenGLRenderer.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/iPhoneGLEssentialsAppDelegate.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/ES2Renderer.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/EAGLView.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/vectorUtil.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/vectorUtil.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/modelUtil.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/modelUtil.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/matrixUtil.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/matrixUtil.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/imageUtil.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/imageUtil.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/sourceUtil.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/sourceUtil.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileXIB /Users/marcdion/Documents/iPhone/GLEssentials_6!/Resources/iPhone/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftUpperArm.jpg _MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg
+cCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/wood.fsh Shaders/wood.fsh
+cCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/wood.vsh Shaders/wood.vsh
+cCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/marc.fsh Shaders/marc.fsh
+cCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/marc.vsh Shaders/marc.vsh
+cCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftUpperArm_DOT3.jpg _MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg
+cCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftForeArm_DOT3.jpg _MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg
+cCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftForeArm.jpg _MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg
+cCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/leftArmUpper.jpg Classes/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004D54D24F000000000000094F
+t1297404495
+s2383
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004D54D24F0000000000000A61
+t1297404495
+s2657
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/gl.h
+c000000004D54D24F00000000000092AA
+t1297404495
+s37546
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/glext.h
+c000000004D54D24F00000000000026AA
+t1297404495
+s9898
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004D54D28100000000000191D0
+t1297404545
+s102864
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/memory.h
+c000000004D4F6E990000000000000765
+t1297051289
+s1893
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdio.h
+c000000004D4F6E9A0000000000004763
+t1297051290
+s18275
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdlib.h
+c000000004D4F6E9A00000000000030A7
+t1297051290
+s12455
+
+N/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/string.h
+c000000004D4F6E9A0000000000001A3A
+t1297051290
+s6714
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg
+c000000004EB1AA800000000000003987
+t1320266368
+s14727
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h
+c000000004F6D913A00000000000000DB
+t1332580666
+s219
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.m
+c000000004F83DBA000000000000058A7
+t1334041504
+s22695
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+i"OpenGLRenderer.h"
+i"matrixUtil.h"
+i"imageUtil.h"
+i"modelUtil.h"
+i"sourceUtil.h"
+i"../_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.cpp"
+i"../_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.cpp"
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.h
+c000000004F6C25A60000000000000CB9
+t1332487590
+s3257
+i<UIKit/UIKit.h>
+i"ES2Renderer.h"
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m
+c000000004F6E47E200000000000019D5
+t1332627426
+s6613
+i"EAGLView.h"
+i"ES2Renderer.h"
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h
+c000000004F6D100A0000000000000B65
+t1332547594
+s2917
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i"OpenGLRenderer.h"
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m
+c000000004F6E34FF00000000000018A6
+t1332622591
+s6310
+i"ES2Renderer.h"
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/iPhoneGLEssentialsAppDelegate.h
+c000000004D51909B0000000000000ADE
+t1297191067
+s2782
+i<UIKit/UIKit.h>
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m
+c000000004F6E47E2000000000000162F
+t1332627426
+s5679
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+i"iPhoneGLEssentialsAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Resources/iPhone/MainWindow.xib
+c000000004F83C73C0000000000002287
+t1334036284
+s8839
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Shaders/marc.fsh
+c000000004F6E392300000000000003A4
+t1332623651
+s932
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Shaders/marc.vsh
+c000000004F6E350600000000000001AB
+t1332622598
+s427
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Shaders/wood.fsh
+c000000004F83D9EE00000000000003A9
+t1334041070
+s937
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/Shaders/wood.vsh
+c000000004F6E350600000000000001AB
+t1332622598
+s427
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/glUtil.h
+c000000004F6C211F00000000000000D4
+t1332486431
+s212
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/imageUtil.h
+c000000004D51909B0000000000000B2B
+t1297191067
+s2859
+i"glUtil.h"
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/imageUtil.m
+c000000004F6DA0420000000000001051
+t1332584514
+s4177
+i"imageUtil.h"
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/matrixUtil.c
+c000000004F66D4680000000000005AB4
+t1332139112
+s23220
+i"matrixUtil.h"
+i"vectorUtil.h"
+i<math.h>
+i<memory.h>
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/matrixUtil.h
+c000000004F6D290600000000000026A0
+t1332553990
+s9888
+i<math.h>
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/modelUtil.c
+c000000004D51909B000000000000284C
+t1297191067
+s10316
+i"modelUtil.h"
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/modelUtil.h
+c000000004D51909B0000000000000C60
+t1297191067
+s3168
+i"glUtil.h"
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/sourceUtil.c
+c000000004D6D857C0000000000000E96
+t1299023228
+s3734
+i"sourceUtil.h"
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/sourceUtil.h
+c000000004D51909B0000000000000AFD
+t1297191067
+s2813
+i"glUtil.h"
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/vectorUtil.c
+c000000004D51909B000000000000135F
+t1297191067
+s4959
+i"vectorUtil.h"
+i<math.h>
+i<memory.h>
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/vectorUtil.h
+c000000004D51909B00000000000010D9
+t1297191067
+s4313
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.cpp
+c000000004F6AAA9400000000000035F8
+t1332390548
+s13816
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg
+c000000004F6AA4560000000000010E67
+t1332388950
+s69223
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg
+c000000004F6AC9790000000000016BBD
+t1332398457
+s93117
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.cpp
+c000000004F6AA74D0000000000007694
+t1332389709
+s30356
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg
+c000000004F6966D600000000000117E6
+t1332307670
+s71654
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg
+c000000004F696AD90000000000015993
+t1332308697
+s88467
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app.dSYM
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/Info.plist
+t1334041769
+s777
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/MainWindow.nib
+t1334041775
+s1188
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/PkgInfo
+t1334041769
+s8
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/iPhoneGLEssentials
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/leftArmUpper.jpg
+t1334041770
+s14727
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/marc.fsh
+t1334041770
+s932
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/marc.vsh
+t1334041770
+s427
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftForeArm.jpg
+t1334041770
+s69223
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftForeArm_DOT3.jpg
+t1334041770
+s93117
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftUpperArm.jpg
+t1334041770
+s71654
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftUpperArm_DOT3.jpg
+t1334041770
+s88467
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/wood.fsh
+t1334041770
+s937
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/wood.vsh
+t1334041770
+s427
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/EAGLView.o
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/ES2Renderer.o
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/OpenGLRenderer.o
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/iPhoneGLEssentials.LinkFileList
+c000000004F83DCA90000000000000612
+t1334041769
+s1554
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/iPhoneGLEssentialsAppDelegate.o
+t1334041770
+s58544
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/imageUtil.o
+t1334041770
+s15480
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/main.o
+t1334041770
+s9956
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/matrixUtil.o
+t1334041770
+s39932
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/modelUtil.o
+t1334041770
+s11720
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/sourceUtil.o
+t1334041770
+s5116
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/vectorUtil.o
+t1334041770
+s7396
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/iPhoneGLEssentials_Prefix.pch
+c000000004C09A82200000000000000CD
+t1275701282
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/marcdion/Documents/iPhone/GLEssentials_6!/main.m
+c000000004F6D09F90000000000000AC7
+t1332546041
+s2759
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+
+N/var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-dglkrzwbkqmnbgborffyrtjsewzn/iPhoneGLEssentials_Prefix.pch.gch
+t1334041770
+s15855024
+
+N/var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-evtfvefpdlyurqeirvapdspoohds/iPhoneGLEssentials_Prefix.pch.gch
+t1334041769
+s2142576
+
+NiPhoneGLEssentials-Info.plist
+c000000004F6D7880000000000000045F
+t1332574336
+s1119
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355734569#355734569#0(0"0(0#1#0"17207643904#0"0#
+
+CCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/EAGLView.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355734570.690267
+e355734570.730933
+r0
+xCompileC
+xbuild/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/EAGLView.o
+x/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h:52,
+o                 from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.h:50,
+o                 from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m:51:
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:8: error: expected specifier-qualifier-list before 'GLuint'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:11: error: expected ')' before 'GLuint'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:12: error: expected ')' before 'GLuint'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:12: error: expected ')' before 'GLuint'
+lSLF07#2@82"Compile /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m355734570#355734570#0(782"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h:52,                 from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.h:50,                 from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m:51:/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:8: error: expected specifier-qualifier-list before 'GLuint'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:11: error: expected ')' before 'GLuint'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:12: error: expected ')' before 'GLuint'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:12: error: expected ')' before 'GLuint'4(4@49"Expected specifier-qualifier-list before 'GLuint'355734570#306#134#4(7@96"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m355734570#18446744073709551615#0#0(6@74"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m354320226#51#0#51#0#0"0(7@96"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.h355734570#18446744073709551615#0#0(6@74"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.h354180390#50#0#50#0#0"0(7@99"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h355734570#18446744073709551615#0#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h354240394#52#0#52#0#0"0(13@126"Expected specifier-qualifier-list before 'GLuint' in /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h355734570#18446744073709551615#0#0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#8#0#8#0#0"0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#8#0#8#0#19"expected * before *0(4@28"Expected ')' before 'GLuint'355734570#440#114#4(7@96"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m355734570#18446744073709551615#0#0(6@74"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m354320226#51#0#51#0#0"0(7@96"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.h355734570#18446744073709551615#0#0(6@74"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.h354180390#50#0#50#0#0"0(7@99"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h355734570#18446744073709551615#0#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h354240394#52#0#52#0#0"0(13@105"Expected ')' before 'GLuint' in /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h355734570#18446744073709551615#0#0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#11#0#11#0#0"0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#11#0#11#0#19"expected * before *0(4@28"Expected ')' before 'GLuint'355734570#554#114#4(7@96"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m355734570#18446744073709551615#0#0(6@74"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m354320226#51#0#51#0#0"0(7@96"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.h355734570#18446744073709551615#0#0(6@74"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.h354180390#50#0#50#0#0"0(7@99"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h355734570#18446744073709551615#0#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h354240394#52#0#52#0#0"0(13@105"Expected ')' before 'GLuint' in /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h355734570#18446744073709551615#0#0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#12#0#12#0#0"0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#12#0#12#0#19"expected * before *0(4@28"Expected ')' before 'GLuint'355734570#668#114#4(7@96"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m355734570#18446744073709551615#0#0(6@74"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m354320226#51#0#51#0#0"0(7@96"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.h355734570#18446744073709551615#0#0(6@74"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.h354180390#50#0#50#0#0"0(7@99"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h355734570#18446744073709551615#0#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h354240394#52#0#52#0#0"0(13@105"Expected ')' before 'GLuint' in /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h355734570#18446744073709551615#0#0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#12#0#12#0#0"0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#12#0#12#0#19"expected * before *0(0#0#74"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m4566023824#2318"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap -F/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/include -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources/i386 -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources -include /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-dglkrzwbkqmnbgborffyrtjsewzn/iPhoneGLEssentials_Prefix.pch -c /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/EAGLView.m -o /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/EAGLView.o1#
+
+CCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/ES2Renderer.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355734570.552752
+e355734570.695735
+r0
+xCompileC
+xbuild/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/ES2Renderer.o
+x/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h:52,
+o                 from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:48:
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:8: error: expected specifier-qualifier-list before 'GLuint'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:11: error: expected ')' before 'GLuint'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:12: error: expected ')' before 'GLuint'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:12: error: expected ')' before 'GLuint'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:60: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'colorRenderbufferOLD'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:61: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'depthRenderbufferOLD'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m: In function '-[ES2Renderer initWithContext:AndDrawable:]':
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:69: warning: implicit declaration of function 'glGenFramebuffers'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:69: error: '_defaultFBOName' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:69: error: (Each undeclared identifier is reported only once
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:69: error: for each function it appears in.)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:72: warning: implicit declaration of function 'glGenRenderbuffers'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:72: error: 'colorRenderbufferOLD' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:73: warning: implicit declaration of function 'glBindFramebuffer'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:73: error: 'GL_FRAMEBUFFER' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:74: warning: implicit declaration of function 'glBindRenderbuffer'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:74: error: 'GL_RENDERBUFFER' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:81: warning: implicit declaration of function 'glFramebufferRenderbuffer'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:81: error: 'GL_COLOR_ATTACHMENT0' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:83: error: 'GLint' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:83: error: expected ';' before 'backingWidth'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:84: error: expected ';' before 'backingHeight'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:85: warning: implicit declaration of function 'glGetRenderbufferParameteriv'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:85: error: 'GL_RENDERBUFFER_WIDTH' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:85: error: 'backingWidth' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:86: error: 'GL_RENDERBUFFER_HEIGHT' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:86: error: 'backingHeight' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:88: error: 'depthRenderbufferOLD' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:90: warning: implicit declaration of function 'glRenderbufferStorage'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:90: error: 'GL_DEPTH_COMPONENT16' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:91: error: 'GL_DEPTH_ATTACHMENT' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:93: warning: implicit declaration of function 'glCheckFramebufferStatus'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:93: error: 'GL_FRAMEBUFFER_COMPLETE' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:103: warning: implicit declaration of function 'glDeleteFramebuffers'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:104: warning: implicit declaration of function 'glDeleteRenderbuffers'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m: In function '-[ES2Renderer render]':
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:116: error: 'GL_FRAMEBUFFER' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:116: error: '_defaultFBOName' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:120: error: 'GL_RENDERBUFFER' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:120: error: 'colorRenderbufferOLD' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m: In function '-[ES2Renderer resizeFromLayer:]':
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:129: error: 'GLint' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:129: error: expected ';' before 'backingWidth'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:130: error: expected ';' before 'backingHeight'
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:133: error: 'GL_RENDERBUFFER' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:133: error: 'colorRenderbufferOLD' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:135: error: 'GL_RENDERBUFFER_WIDTH' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:135: error: 'backingWidth' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:136: error: 'GL_RENDERBUFFER_HEIGHT' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:136: error: 'backingHeight' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:138: error: 'depthRenderbufferOLD' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:140: error: 'GL_DEPTH_COMPONENT16' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:141: error: 'GL_FRAMEBUFFER' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:141: error: 'GL_DEPTH_ATTACHMENT' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m: In function '-[ES2Renderer dealloc]':
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:152: error: '_defaultFBOName' undeclared (first use in this function)
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:158: error: 'colorRenderbufferOLD' undeclared (first use in this function)
+lSLF07#2@85"Compile /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m355734570#355734570#0(8388"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h:52,                 from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:48:/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:8: error: expected specifier-qualifier-list before 'GLuint'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:11: error: expected ')' before 'GLuint'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:12: error: expected ')' before 'GLuint'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h:12: error: expected ')' before 'GLuint'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:60: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'colorRenderbufferOLD'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:61: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'depthRenderbufferOLD'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m: In function '-[ES2Renderer initWithContext:AndDrawable:]':/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:69: warning: implicit declaration of function 'glGenFramebuffers'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:69: error: '_defaultFBOName' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:69: error: (Each undeclared identifier is reported only once/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:69: error: for each function it appears in.)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:72: warning: implicit declaration of function 'glGenRenderbuffers'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:72: error: 'colorRenderbufferOLD' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:73: warning: implicit declaration of function 'glBindFramebuffer'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:73: error: 'GL_FRAMEBUFFER' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:74: warning: implicit declaration of function 'glBindRenderbuffer'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:74: error: 'GL_RENDERBUFFER' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:81: warning: implicit declaration of function 'glFramebufferRenderbuffer'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:81: error: 'GL_COLOR_ATTACHMENT0' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:83: error: 'GLint' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:83: error: expected ';' before 'backingWidth'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:84: error: expected ';' before 'backingHeight'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:85: warning: implicit declaration of function 'glGetRenderbufferParameteriv'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:85: error: 'GL_RENDERBUFFER_WIDTH' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:85: error: 'backingWidth' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:86: error: 'GL_RENDERBUFFER_HEIGHT' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:86: error: 'backingHeight' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:88: error: 'depthRenderbufferOLD' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:90: warning: implicit declaration of function 'glRenderbufferStorage'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:90: error: 'GL_DEPTH_COMPONENT16' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:91: error: 'GL_DEPTH_ATTACHMENT' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:93: warning: implicit declaration of function 'glCheckFramebufferStatus'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:93: error: 'GL_FRAMEBUFFER_COMPLETE' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:103: warning: implicit declaration of function 'glDeleteFramebuffers'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:104: warning: implicit declaration of function 'glDeleteRenderbuffers'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m: In function '-[ES2Renderer render]':/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:116: error: 'GL_FRAMEBUFFER' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:116: error: '_defaultFBOName' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:120: error: 'GL_RENDERBUFFER' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:120: error: 'colorRenderbufferOLD' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m: In function '-[ES2Renderer resizeFromLayer:]':/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:129: error: 'GLint' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:129: error: expected ';' before 'backingWidth'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:130: error: expected ';' before 'backingHeight'/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:133: error: 'GL_RENDERBUFFER' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:133: error: 'colorRenderbufferOLD' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:135: error: 'GL_RENDERBUFFER_WIDTH' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:135: error: 'backingWidth' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:136: error: 'GL_RENDERBUFFER_HEIGHT' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:136: error: 'backingHeight' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:138: error: 'depthRenderbufferOLD' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:140: error: 'GL_DEPTH_COMPONENT16' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:141: error: 'GL_FRAMEBUFFER' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:141: error: 'GL_DEPTH_ATTACHMENT' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m: In function '-[ES2Renderer dealloc]':/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:152: error: '_defaultFBOName' undeclared (first use in this function)/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m:158: error: 'colorRenderbufferOLD' undeclared (first use in this function)51(4@49"Expected specifier-qualifier-list before 'GLuint'355734570#208#134#3(7@99"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m355734570#18446744073709551615#0#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#48#0#48#0#0"0(7@99"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h355734570#18446744073709551615#0#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h354240394#52#0#52#0#0"0(13@126"Expected specifier-qualifier-list before 'GLuint' in /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h355734570#18446744073709551615#0#0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#8#0#8#0#0"0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#8#0#8#0#19"expected * before *0(4@28"Expected ')' before 'GLuint'355734570#342#114#3(7@99"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m355734570#18446744073709551615#0#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#48#0#48#0#0"0(7@99"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h355734570#18446744073709551615#0#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h354240394#52#0#52#0#0"0(13@105"Expected ')' before 'GLuint' in /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h355734570#18446744073709551615#0#0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#11#0#11#0#0"0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#11#0#11#0#19"expected * before *0(4@28"Expected ')' before 'GLuint'355734570#456#114#3(7@99"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m355734570#18446744073709551615#0#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#48#0#48#0#0"0(7@99"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h355734570#18446744073709551615#0#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h354240394#52#0#52#0#0"0(13@105"Expected ')' before 'GLuint' in /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h355734570#18446744073709551615#0#0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#12#0#12#0#0"0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#12#0#12#0#19"expected * before *0(4@28"Expected ')' before 'GLuint'355734570#570#114#3(7@99"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m355734570#18446744073709551615#0#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#48#0#48#0#0"0(7@99"In file included from /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h355734570#18446744073709551615#0#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.h354240394#52#0#52#0#0"0(13@105"Expected ')' before 'GLuint' in /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h355734570#18446744073709551615#0#0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#12#0#12#0#0"0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.h354273466#12#0#12#0#19"expected * before *0(4@78"Expected '=', ',', ';', 'asm' or '__attribute__' before 'colorRenderbufferOLD'355734570#684#168#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#60#0#60#0#19"expected * before *0(4@78"Expected '=', ',', ';', 'asm' or '__attribute__' before 'depthRenderbufferOLD'355734570#852#168#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#61#0#61#0#19"expected * before *0(22@52"Implicit declaration of function 'glGenFramebuffers'355734570#1158#144#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#69#0#69#0#36"implicit declaration of function '*'0(4@57"'_defaultFBOName' undeclared (first use in this function)355734570#1302#147#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#69#0#69#0#43"'*' undeclared (first use in this function)0(22@53"Implicit declaration of function 'glGenRenderbuffers'355734570#1711#145#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#72#0#72#0#36"implicit declaration of function '*'0(4@62"'colorRenderbufferOLD' undeclared (first use in this function)355734570#1856#152#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#72#0#72#0#43"'*' undeclared (first use in this function)0(22@52"Implicit declaration of function 'glBindFramebuffer'355734570#2008#144#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#73#0#73#0#36"implicit declaration of function '*'0(4@56"'GL_FRAMEBUFFER' undeclared (first use in this function)355734570#2152#146#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#73#0#73#0#43"'*' undeclared (first use in this function)0(22@53"Implicit declaration of function 'glBindRenderbuffer'355734570#2298#145#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#74#0#74#0#36"implicit declaration of function '*'0(4@57"'GL_RENDERBUFFER' undeclared (first use in this function)355734570#2443#147#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#74#0#74#0#43"'*' undeclared (first use in this function)0(22@60"Implicit declaration of function 'glFramebufferRenderbuffer'355734570#2590#152#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#81#0#81#0#36"implicit declaration of function '*'0(4@62"'GL_COLOR_ATTACHMENT0' undeclared (first use in this function)355734570#2742#152#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#81#0#81#0#43"'*' undeclared (first use in this function)0(4@47"'GLint' undeclared (first use in this function)355734570#2894#137#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#83#0#83#0#43"'*' undeclared (first use in this function)0(4@34"Expected ';' before 'backingWidth'355734570#3031#124#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#83#0#83#0#19"expected * before *0(4@35"Expected ';' before 'backingHeight'355734570#3155#125#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#84#0#84#0#19"expected * before *0(22@63"Implicit declaration of function 'glGetRenderbufferParameteriv'355734570#3280#155#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#85#0#85#0#36"implicit declaration of function '*'0(4@63"'GL_RENDERBUFFER_WIDTH' undeclared (first use in this function)355734570#3435#153#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#85#0#85#0#43"'*' undeclared (first use in this function)0(4@54"'backingWidth' undeclared (first use in this function)355734570#3588#144#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#85#0#85#0#43"'*' undeclared (first use in this function)0(4@64"'GL_RENDERBUFFER_HEIGHT' undeclared (first use in this function)355734570#3732#154#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#86#0#86#0#43"'*' undeclared (first use in this function)0(4@55"'backingHeight' undeclared (first use in this function)355734570#3886#145#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#86#0#86#0#43"'*' undeclared (first use in this function)0(4@62"'depthRenderbufferOLD' undeclared (first use in this function)355734570#4031#152#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#88#0#88#0#43"'*' undeclared (first use in this function)0(22@56"Implicit declaration of function 'glRenderbufferStorage'355734570#4183#148#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#90#0#90#0#36"implicit declaration of function '*'0(4@62"'GL_DEPTH_COMPONENT16' undeclared (first use in this function)355734570#4331#152#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#90#0#90#0#43"'*' undeclared (first use in this function)0(4@61"'GL_DEPTH_ATTACHMENT' undeclared (first use in this function)355734570#4483#151#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#91#0#91#0#43"'*' undeclared (first use in this function)0(22@59"Implicit declaration of function 'glCheckFramebufferStatus'355734570#4634#151#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#93#0#93#0#36"implicit declaration of function '*'0(4@65"'GL_FRAMEBUFFER_COMPLETE' undeclared (first use in this function)355734570#4785#155#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#93#0#93#0#43"'*' undeclared (first use in this function)0(22@55"Implicit declaration of function 'glDeleteFramebuffers'355734570#4940#148#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#103#0#103#0#36"implicit declaration of function '*'0(22@56"Implicit declaration of function 'glDeleteRenderbuffers'355734570#5088#149#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#104#0#104#0#36"implicit declaration of function '*'0(4@56"'GL_FRAMEBUFFER' undeclared (first use in this function)355734570#5353#147#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#116#0#116#0#43"'*' undeclared (first use in this function)0(4@57"'_defaultFBOName' undeclared (first use in this function)355734570#5500#148#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#116#0#116#0#43"'*' undeclared (first use in this function)0(4@57"'GL_RENDERBUFFER' undeclared (first use in this function)355734570#5648#148#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#120#0#120#0#43"'*' undeclared (first use in this function)0(4@62"'colorRenderbufferOLD' undeclared (first use in this function)355734570#5796#153#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#120#0#120#0#43"'*' undeclared (first use in this function)0(4@47"'GLint' undeclared (first use in this function)355734570#6075#138#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#129#0#129#0#43"'*' undeclared (first use in this function)0(4@34"Expected ';' before 'backingWidth'355734570#6213#125#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#129#0#129#0#19"expected * before *0(4@35"Expected ';' before 'backingHeight'355734570#6338#126#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#130#0#130#0#19"expected * before *0(4@57"'GL_RENDERBUFFER' undeclared (first use in this function)355734570#6464#148#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#133#0#133#0#43"'*' undeclared (first use in this function)0(4@62"'colorRenderbufferOLD' undeclared (first use in this function)355734570#6612#153#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#133#0#133#0#43"'*' undeclared (first use in this function)0(4@63"'GL_RENDERBUFFER_WIDTH' undeclared (first use in this function)355734570#6765#154#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#135#0#135#0#43"'*' undeclared (first use in this function)0(4@54"'backingWidth' undeclared (first use in this function)355734570#6919#145#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#135#0#135#0#43"'*' undeclared (first use in this function)0(4@64"'GL_RENDERBUFFER_HEIGHT' undeclared (first use in this function)355734570#7064#155#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#136#0#136#0#43"'*' undeclared (first use in this function)0(4@55"'backingHeight' undeclared (first use in this function)355734570#7219#146#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#136#0#136#0#43"'*' undeclared (first use in this function)0(4@62"'depthRenderbufferOLD' undeclared (first use in this function)355734570#7365#153#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#138#0#138#0#43"'*' undeclared (first use in this function)0(4@62"'GL_DEPTH_COMPONENT16' undeclared (first use in this function)355734570#7518#153#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#140#0#140#0#43"'*' undeclared (first use in this function)0(4@56"'GL_FRAMEBUFFER' undeclared (first use in this function)355734570#7671#147#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#141#0#141#0#43"'*' undeclared (first use in this function)0(4@61"'GL_DEPTH_ATTACHMENT' undeclared (first use in this function)355734570#7818#152#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#141#0#141#0#43"'*' undeclared (first use in this function)0(4@57"'_defaultFBOName' undeclared (first use in this function)355734570#8087#148#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#152#0#152#0#43"'*' undeclared (first use in this function)0(4@62"'colorRenderbufferOLD' undeclared (first use in this function)355734570#8235#153#0(6@77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m354315391#158#0#158#0#43"'*' undeclared (first use in this function)0(0#0#77"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m4566023824#2324"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap -F/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/include -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources/i386 -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources -include /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-dglkrzwbkqmnbgborffyrtjsewzn/iPhoneGLEssentials_Prefix.pch -c /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/ES2Renderer.m -o /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/ES2Renderer.o1#
+
+CCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/OpenGLRenderer.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355734570.551506
+e355734570.719813
+r0
+xCompileC
+xbuild/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/OpenGLRenderer.o
+x/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.m:28: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+o{standard input}:1451:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:1451:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:1324:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:1324:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:1138:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:1138:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:1096:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:1096:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:999:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:999:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:992:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:992:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:958:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:958:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:923:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:923:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:888:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:888:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:853:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:853:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:757:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:757:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:750:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:750:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:730:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:730:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:723:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:723:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:678:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:678:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:631:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:631:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:584:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:584:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:537:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:537:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:376:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:376:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:370:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:370:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:351:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:351:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:345:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:345:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:326:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:326:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:320:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:320:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:310:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:310:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:301:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:301:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:265:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:265:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:256:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:256:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:220:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:220:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:211:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:211:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:175:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:175:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:166:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:166:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol LC0
+o{standard input}:unknown:Undefined local symbol LC1
+o{standard input}:unknown:Undefined local symbol LC2
+lSLF07#2@81"Compile /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.m355734570#355734570#0(5851"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.m:28: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token{standard input}:1451:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:1451:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:1324:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:1324:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:1138:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:1138:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:1096:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:1096:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:999:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:999:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:992:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:992:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:958:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:958:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:923:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:923:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:888:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:888:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:853:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:853:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:757:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:757:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:750:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:750:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:730:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:730:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:723:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:723:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:678:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:678:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:631:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:631:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:584:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:584:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:537:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:537:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:376:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:376:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:370:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:370:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:351:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:351:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:345:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:345:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:326:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:326:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:320:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:320:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:310:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:310:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:301:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:301:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:265:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:265:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:256:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:256:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:220:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:220:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:211:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:211:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:175:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:175:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:166:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:166:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol LC1{standard input}:unknown:Undefined local symbol LC21(4@65"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token355734570#0#151#0(6@73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.m355734304#28#0#28#0#19"expected * before *0(0#0#73"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.m4566023824#2323"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap -F/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/include -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources/i386 -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources -include /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-dglkrzwbkqmnbgborffyrtjsewzn/iPhoneGLEssentials_Prefix.pch -c /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/OpenGLRenderer.m -o /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/OpenGLRenderer.o1#
+
+CCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/iPhoneGLEssentialsAppDelegate.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355734570.552087
+e355734570.721260
+r1
+xCompileC
+xbuild/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/iPhoneGLEssentialsAppDelegate.o
+x/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m355734570#355734570#0(0"0(0#0#95"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m4566023824#2360"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap -F/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/include -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources/i386 -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources -include /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-dglkrzwbkqmnbgborffyrtjsewzn/iPhoneGLEssentials_Prefix.pch -c /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m -o /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/iPhoneGLEssentialsAppDelegate.o0#
+
+CCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/imageUtil.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/imageUtil.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355734570.731007
+e355734570.765337
+r1
+xCompileC
+xbuild/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/imageUtil.o
+x/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/imageUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/imageUtil.m355734570#355734570#0(0"0(0#0#68"/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/imageUtil.m4566023824#2313"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap -F/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/include -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources/i386 -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources -include /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-dglkrzwbkqmnbgborffyrtjsewzn/iPhoneGLEssentials_Prefix.pch -c /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/imageUtil.m -o /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/imageUtil.o0#
+
+CCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/main.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355734570.550754
+e355734570.689331
+r1
+xCompileC
+xbuild/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/main.o
+x/Users/marcdion/Documents/iPhone/GLEssentials_6!/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/marcdion/Documents/iPhone/GLEssentials_6!/main.m355734570#355734570#0(0"0(0#0#55"/Users/marcdion/Documents/iPhone/GLEssentials_6!/main.m4566023824#2295"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap -F/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/include -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources/i386 -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources -include /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-dglkrzwbkqmnbgborffyrtjsewzn/iPhoneGLEssentials_Prefix.pch -c /Users/marcdion/Documents/iPhone/GLEssentials_6!/main.m -o /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/matrixUtil.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/matrixUtil.c normal i386 c com.apple.compilers.gcc.4_2
+s355734570.721336
+e355734570.854074
+r1
+xCompileC
+xbuild/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/matrixUtil.o
+x/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/matrixUtil.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/matrixUtil.c355734570#355734570#0(0"0(0#0#69"/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/matrixUtil.c4566023824#2261"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap -F/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/include -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources/i386 -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources -include /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-evtfvefpdlyurqeirvapdspoohds/iPhoneGLEssentials_Prefix.pch -c /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/matrixUtil.c -o /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/matrixUtil.o0#
+
+CCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/modelUtil.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/modelUtil.c normal i386 c com.apple.compilers.gcc.4_2
+s355734570.719951
+e355734570.788602
+r1
+xCompileC
+xbuild/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/modelUtil.o
+x/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/modelUtil.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/modelUtil.c355734570#355734570#0(0"0(0#0#68"/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/modelUtil.c4566023824#2259"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap -F/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/include -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources/i386 -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources -include /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-evtfvefpdlyurqeirvapdspoohds/iPhoneGLEssentials_Prefix.pch -c /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/modelUtil.c -o /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/modelUtil.o0#
+
+CCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/sourceUtil.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/sourceUtil.c normal i386 c com.apple.compilers.gcc.4_2
+s355734570.765417
+e355734570.801592
+r1
+xCompileC
+xbuild/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/sourceUtil.o
+x/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/sourceUtil.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/sourceUtil.c355734570#355734570#0(0"0(0#0#69"/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/sourceUtil.c4566023824#2261"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap -F/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/include -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources/i386 -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources -include /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-evtfvefpdlyurqeirvapdspoohds/iPhoneGLEssentials_Prefix.pch -c /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/sourceUtil.c -o /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/sourceUtil.o0#
+
+CCompileC build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/vectorUtil.o /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/vectorUtil.c normal i386 c com.apple.compilers.gcc.4_2
+s355734570.695813
+e355734570.790881
+r1
+xCompileC
+xbuild/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/vectorUtil.o
+x/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/vectorUtil.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/vectorUtil.c355734570#355734570#0(0"0(0#0#69"/Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/vectorUtil.c4566023824#2261"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap -F/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/include -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources/i386 -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources -include /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-evtfvefpdlyurqeirvapdspoohds/iPhoneGLEssentials_Prefix.pch -c /Users/marcdion/Documents/iPhone/GLEssentials_6!/UtilSrc/vectorUtil.c -o /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/Objects-normal/i386/vectorUtil.o0#
+
+CCompileXIB /Users/marcdion/Documents/iPhone/GLEssentials_6!/Resources/iPhone/MainWindow.xib
+s355734570.854148
+e355734575.095418
+r1
+xCompileXIB
+x/Users/marcdion/Documents/iPhone/GLEssentials_6!/Resources/iPhone/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Resources/iPhone/MainWindow.xib:3: warning: The 'glView' outlet of 'iPhoneGLEssentialPractices App Delegate' is connected to 'View' but 'glView' is no longer defined on iPhoneGLEssentialPracticesAppDelegate.
+o/Users/marcdion/Documents/iPhone/GLEssentials_6!/Resources/iPhone/MainWindow.xib:3: warning: The 'window' outlet of 'iPhoneGLEssentialPractices App Delegate' is connected to 'Window' but 'window' is no longer defined on iPhoneGLEssentialPracticesAppDelegate.
+lSLF07#2@42"CompileXIB Resources/iPhone/MainWindow.xib355734570#355734575#0(557"/* com.apple.ibtool.document.warnings *//Users/marcdion/Documents/iPhone/GLEssentials_6!/Resources/iPhone/MainWindow.xib:3: warning: The 'glView' outlet of 'iPhoneGLEssentialPractices App Delegate' is connected to 'View' but 'glView' is no longer defined on iPhoneGLEssentialPracticesAppDelegate./Users/marcdion/Documents/iPhone/GLEssentials_6!/Resources/iPhone/MainWindow.xib:3: warning: The 'window' outlet of 'iPhoneGLEssentialPractices App Delegate' is connected to 'Window' but 'window' is no longer defined on iPhoneGLEssentialPracticesAppDelegate.2(22@163"The 'glView' outlet of 'iPhoneGLEssentialPractices App Delegate' is connected to 'View' but 'glView' is no longer defined on iPhoneGLEssentialPracticesAppDelegate.355734575#18446744073709551615#0#0(6@80"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Resources/iPhone/MainWindow.xib355729084#3#0#3#0#0"0(22@165"The 'window' outlet of 'iPhoneGLEssentialPractices App Delegate' is connected to 'Window' but 'window' is no longer defined on iPhoneGLEssentialPracticesAppDelegate.355734575#18446744073709551615#0#0(6@80"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Resources/iPhone/MainWindow.xib355729084#3#0#3#0#0"0(0#0#80"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Resources/iPhone/MainWindow.xib17254081280#690"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/MainWindow.nib /Users/marcdion/Documents/iPhone/GLEssentials_6!/Resources/iPhone/MainWindow.xib --sdk /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/leftArmUpper.jpg Classes/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg
+s355734570.858306
+e355734570.875959
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGLEssentials.app/leftArmUpper.jpg
+xClasses/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg
+lSLF07#2@117"Copy Classes/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg355734570#355734570#0(0"0(0#0#161"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg4566023824#658"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marcdion/Documents/iPhone/GLEssentials_6!/Classes/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/marc.fsh Shaders/marc.fsh
+s355734570.856391
+e355734570.875620
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGLEssentials.app/marc.fsh
+xShaders/marc.fsh
+lSLF07#2@21"Copy Shaders/marc.fsh355734570#355734570#0(0"0(0#0#65"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Shaders/marc.fsh4566023824#562"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marcdion/Documents/iPhone/GLEssentials_6!/Shaders/marc.fsh /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/marc.vsh Shaders/marc.vsh
+s355734570.856767
+e355734570.875453
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGLEssentials.app/marc.vsh
+xShaders/marc.vsh
+lSLF07#2@21"Copy Shaders/marc.vsh355734570#355734570#0(0"0(0#0#65"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Shaders/marc.vsh4566023824#562"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marcdion/Documents/iPhone/GLEssentials_6!/Shaders/marc.vsh /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftForeArm.jpg _MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg
+s355734570.857919
+e355734570.932149
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftForeArm.jpg
+x_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg
+lSLF07#2@66"Copy _MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg355734570#355734570#0(0"0(0#0#110"/Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg4566023824#607"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftForeArm_DOT3.jpg _MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg
+s355734570.857538
+e355734570.932033
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftForeArm_DOT3.jpg
+x_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg
+lSLF07#2@71"Copy _MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg355734570#355734570#0(0"0(0#0#115"/Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg4566023824#612"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftUpperArm.jpg _MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg
+s355734570.855262
+e355734570.932280
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftUpperArm.jpg
+x_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg
+lSLF07#2@68"Copy _MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg355734570#355734570#0(0"0(0#0#112"/Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg4566023824#609"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftUpperArm_DOT3.jpg _MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg
+s355734570.857150
+e355734570.974057
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGLEssentials.app/marcLeftUpperArm_DOT3.jpg
+x_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg
+lSLF07#2@73"Copy _MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg355734570#355734570#0(0"0(0#0#117"/Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg4566023824#614"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marcdion/Documents/iPhone/GLEssentials_6!/_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/wood.fsh Shaders/wood.fsh
+s355734570.855641
+e355734570.875027
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGLEssentials.app/wood.fsh
+xShaders/wood.fsh
+lSLF07#2@21"Copy Shaders/wood.fsh355734570#355734570#0(0"0(0#0#65"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Shaders/wood.fsh4566023824#562"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marcdion/Documents/iPhone/GLEssentials_6!/Shaders/wood.fsh /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app0#
+
+CCpResource build/Debug-iphonesimulator/iPhoneGLEssentials.app/wood.vsh Shaders/wood.vsh
+s355734570.856022
+e355734570.875820
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhoneGLEssentials.app/wood.vsh
+xShaders/wood.vsh
+lSLF07#2@21"Copy Shaders/wood.vsh355734570#355734570#0(0"0(0#0#65"/Users/marcdion/Documents/iPhone/GLEssentials_6!/Shaders/wood.vsh4566023824#562"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/marcdion/Documents/iPhone/GLEssentials_6!/Shaders/wood.vsh /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app0#
+
+CGenerateDSYMFile /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app.dSYM /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/iPhoneGLEssentials
+r0
+
+CLd /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/iPhoneGLEssentials normal i386
+r0
+
+CProcessInfoPlistFile /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/Info.plist iPhoneGLEssentials-Info.plist
+s355734569.527766
+e355734569.578918
+r1
+xProcessInfoPlistFile
+x/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/Info.plist
+xiPhoneGLEssentials-Info.plist
+lSLF07#2@37"Process iPhoneGLEssentials-Info.plist355734569#355734569#0(0"0(0#0#78"/Users/marcdion/Documents/iPhone/GLEssentials_6!/iPhoneGLEssentials-Info.plist17264452864#574"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iPhoneGLEssentials-Info.plist -genpkginfo /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app/Info.plist0#
+
+CProcessPCH /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-dglkrzwbkqmnbgborffyrtjsewzn/iPhoneGLEssentials_Prefix.pch.gch iPhoneGLEssentials_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s355734569.579028
+e355734570.550676
+r1
+xProcessPCH
+x/var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-dglkrzwbkqmnbgborffyrtjsewzn/iPhoneGLEssentials_Prefix.pch.gch
+xiPhoneGLEssentials_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile iPhoneGLEssentials_Prefix.pch355734569#355734570#0(0"0(0#0#78"/Users/marcdion/Documents/iPhone/GLEssentials_6!/iPhoneGLEssentials_Prefix.pch4566023824#2172"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap -F/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/include -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources/i386 -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources -c /Users/marcdion/Documents/iPhone/GLEssentials_6!/iPhoneGLEssentials_Prefix.pch -o /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-dglkrzwbkqmnbgborffyrtjsewzn/iPhoneGLEssentials_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-evtfvefpdlyurqeirvapdspoohds/iPhoneGLEssentials_Prefix.pch.gch iPhoneGLEssentials_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s355734569.617968
+e355734569.977832
+r1
+xProcessPCH
+x/var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-evtfvefpdlyurqeirvapdspoohds/iPhoneGLEssentials_Prefix.pch.gch
+xiPhoneGLEssentials_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile iPhoneGLEssentials_Prefix.pch355734569#355734569#0(0"0(0#0#78"/Users/marcdion/Documents/iPhone/GLEssentials_6!/iPhoneGLEssentials_Prefix.pch4566023824#2118"    cd "/Users/marcdion/Documents/iPhone/GLEssentials_6!"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/xCode2_3_6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Developer-old/xCode2_3_6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap -iquote /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap -F/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/include -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources/i386 -I/Users/marcdion/Documents/iPhone/GLEssentials_6!/build/iPhoneGLEssentials.build/Debug-iphonesimulator/GLEssentials.build/DerivedSources -c /Users/marcdion/Documents/iPhone/GLEssentials_6!/iPhoneGLEssentials_Prefix.pch -o /var/folders/dc/3yn60ctd67vdhh8_25xznsdr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneGLEssentials_Prefix-evtfvefpdlyurqeirvapdspoohds/iPhoneGLEssentials_Prefix.pch.gch0#
+
+CTouch /Users/marcdion/Documents/iPhone/GLEssentials_6!/build/Debug-iphonesimulator/iPhoneGLEssentials.app
+r0
+

@@ -1,0 +1,13 @@
+# Blender MTL File: 'sculptris.blend'
+# Material Count: 1
+newmtl Default.001_sculptris.png
+Ns 398.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\!!!_iOS_WIN2\!_flowerShield_var\sculptris.png
+
+

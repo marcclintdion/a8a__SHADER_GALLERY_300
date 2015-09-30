@@ -1,0 +1,539 @@
+TGLEssentials
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist Build/Products/Release-iphoneos/iPhoneGLEssentials.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/Info.plist LITTLE_GREEN_MEN-Info.plist
+cProcessPCH /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch.pth LITTLE_GREEN_MEN_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-hfulwttdpkycsvgfhebaoczmmwix/LITTLE_GREEN_MEN_Prefix.pch.pth LITTLE_GREEN_MEN_Prefix.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/sourceUtil.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/sourceUtil.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/main.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/OpenGLRenderer.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/OpenGLRenderer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/iPhoneGLEssentialsAppDelegate.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/ES2Renderer.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/ES2Renderer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/EAGLView.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/EAGLView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/imageUtil.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/imageUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials normal armv7
+cGenerateDSYMFile /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app.dSYM /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials
+cCompileXIB /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Resources/iPhone/MainWindow.xib
+cCpResource _MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm.jpg
+cCpResource _MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm_DOT3.jpg
+cCpResource _MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm_DOT3.jpg
+cCpResource _MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm.jpg
+cCpResource Classes/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/leftArmUpper.jpg
+cTouch /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials.xcent
+cCodeSign /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app
+cValidate /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004FEC044A0000000000000132
+t1340867658
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+c000000004F72A30900000000000001A7
+t1332912905
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+c000000004F72A30900000000000001E5
+t1332912905
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F72A30B00000000003AE430
+t1332912907
+s3859504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F72A30B000000000052C940
+t1332912907
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F72A30B0000000000001534
+t1332912907
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004F72A30B0000000000018700
+t1332912907
+s100096
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F72A30B0000000000175AA0
+t1332912907
+s1530528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004F72A30B0000000000000BF5
+t1332912907
+s3061
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F72A30C0000000000798EA0
+t1332912908
+s7966368
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch.pth
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-hfulwttdpkycsvgfhebaoczmmwix/LITTLE_GREEN_MEN_Prefix.pch.pth
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/EAGLView.o
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/ES2Renderer.o
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/OpenGLRenderer.o
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/iPhoneGLEssentials.LinkFileList
+c000000004FEE931600000000000004C3
+t1341035286
+s1219
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/iPhoneGLEssentialsAppDelegate.o
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/imageUtil.o
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/sourceUtil.o
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials.xcent
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app.dSYM
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/Info.plist
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/MainWindow.nib
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/PkgInfo
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/ResourceRules.plist
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/leftArmUpper.jpg
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm.jpg
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm_DOT3.jpg
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm.jpg
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm_DOT3.jpg
+t2
+s0
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg
+c000000004EB1AA800000000000003987
+t1320266368
+s14727
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/OpenGLRenderer.m
+c000000004F9B662500000000000010C6
+t1335584293
+s4294
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/EAGLView.m
+c000000004F950CBF00000000000019D5
+t1335168191
+s6613
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/ES2Renderer.m
+c000000004F950ECA00000000000018BA
+t1335168714
+s6330
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m
+c000000004F950CE1000000000000162F
+t1335168225
+s5679
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/LITTLE_GREEN_MEN_Prefix.pch
+c000000004C09A82200000000000000CD
+t1275701282
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Resources/iPhone/MainWindow.xib
+c000000004F83C73C0000000000002287
+t1334036284
+s8839
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/imageUtil.m
+c000000004F6DA0420000000000001051
+t1332584514
+s4177
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/sourceUtil.c
+c000000004D6D857C0000000000000E96
+t1299023228
+s3734
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg
+c000000004F6AA4560000000000010E67
+t1332388950
+s69223
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg
+c000000004F6AC9790000000000016BBD
+t1332398457
+s93117
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg
+c000000004F6966D600000000000117E6
+t1332307670
+s71654
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg
+c000000004F696AD90000000000015993
+t1332308697
+s88467
+
+N/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/main.m
+c000000004F9505880000000000000AEB
+t1335166344
+s2795
+
+NLITTLE_GREEN_MEN-Info.plist
+c000000004FEBF3AE0000000000000461
+t1340863406
+s1121
+
+CBuild AST from /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/OpenGLRenderer.m
+r0
+
+CBuild AST from /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/EAGLView.m
+r0
+
+CBuild AST from /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/ES2Renderer.m
+r0
+
+CBuild AST from /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m
+r0
+
+CBuild AST from /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/imageUtil.m
+r0
+
+CBuild AST from /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/sourceUtil.c
+r0
+
+CBuild AST from /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6b616a96ca9eb541^662fab96ca9eb541^---0#1#0#--18"Check dependencies36"BE0F97E1-D5E6-4BED-9E15-79727C86A11C-
+
+CCodeSign /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app
+s362728089.576378
+e362728089.782211
+r1
+xCodeSign
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CodeSign Build/Products/Release-iphoneos/iPhoneGLEssentials.app2ba19399ca9eb541^703fc899ca9eb541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/0000000000000000^977"CodeSign Build/Products/Release-iphoneos/iPhoneGLEssentials.app    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 5d1e3b54e660c5bc7fc188e9d87cb085db86b993 "--resource-rules=/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/ResourceRules.plist" --entitlements "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials.xcent" "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app"36"F7D6ED48-08A5-48C2-B701-3E2DAB9AA165-
+
+CCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/EAGLView.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/EAGLView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362728087.137156
+e362728087.263914
+r1
+xCompileC
+xBuild/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/EAGLView.o
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/EAGLView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/EAGLView.ma3402397ca9eb541^19924397ca9eb541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/EAGLView.m0000000000000000^3758"CompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/EAGLView.o Classes/iPhone/EAGLView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap" -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/include" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources/armv7" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources" "-F/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch" -MMD -MT dependencies -MF "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/EAGLView.d" --serialize-diagnostics "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/EAGLView.dia" -c "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/EAGLView.m" -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/EAGLView.o"36"5A338179-8ABE-41DB-B37B-61D47A54B11C-
+
+CCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/ES2Renderer.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/ES2Renderer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362728087.083971
+e362728087.190442
+r1
+xCompileC
+xBuild/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/ES2Renderer.o
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/ES2Renderer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/ES2Renderer.me5971597ca9eb541^f4883197ca9eb541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/ES2Renderer.m0000000000000000^3776"CompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/ES2Renderer.o Classes/iPhone/ES2Renderer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap" -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/include" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources/armv7" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources" "-F/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch" -MMD -MT dependencies -MF "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/ES2Renderer.d" --serialize-diagnostics "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/ES2Renderer.dia" -c "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/ES2Renderer.m" -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/ES2Renderer.o"36"9A343EC8-0506-46CE-9766-E5475FA96F5B-
+
+CCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/OpenGLRenderer.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/OpenGLRenderer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362728087.083636
+e362728087.371449
+r1
+xCompileC
+xBuild/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/OpenGLRenderer.o
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/OpenGLRenderer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/OpenGLRenderer.mcb861597ca9eb541^48175f97ca9eb541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/OpenGLRenderer.m0000000000000000^3780"CompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/OpenGLRenderer.o Classes/OpenGLRenderer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap" -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/include" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources/armv7" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources" "-F/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch" -MMD -MT dependencies -MF "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/OpenGLRenderer.d" --serialize-diagnostics "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/OpenGLRenderer.dia" -c "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/OpenGLRenderer.m" -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/OpenGLRenderer.o"36"85CCAAA1-3D1F-4738-AB3E-CFA6D9E777E5-
+
+CCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/iPhoneGLEssentialsAppDelegate.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362728087.083647
+e362728087.206844
+r1
+xCompileC
+xBuild/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/iPhoneGLEssentialsAppDelegate.o
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m46951597ca9eb541^fdf73497ca9eb541^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m0000000000000000^3884"CompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/iPhoneGLEssentialsAppDelegate.o Classes/iPhone/iPhoneGLEssentialsAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap" -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/include" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources/armv7" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources" "-F/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch" -MMD -MT dependencies -MF "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/iPhoneGLEssentialsAppDelegate.d" --serialize-diagnostics "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/iPhoneGLEssentialsAppDelegate.dia" -c "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/iPhone/iPhoneGLEssentialsAppDelegate.m" -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/iPhoneGLEssentialsAppDelegate.o"36"DCB0B243-FB2C-4115-845D-73B93DCB6933-
+
+CCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/imageUtil.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/imageUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362728087.196936
+e362728087.266279
+r1
+xCompileC
+xBuild/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/imageUtil.o
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/imageUtil.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/imageUtil.ma88b3497ca9eb541^cf2d4497ca9eb541^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/imageUtil.m0000000000000000^3750"CompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/imageUtil.o UtilSrc/imageUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap" -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/include" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources/armv7" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources" "-F/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch" -MMD -MT dependencies -MF "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/imageUtil.d" --serialize-diagnostics "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/imageUtil.dia" -c "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/imageUtil.m" -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/imageUtil.o"36"6D9C1914-DB11-4216-9588-10BF451A1FC9-
+
+CCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/main.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362728087.083633
+e362728087.131777
+r1
+xCompileC
+xBuild/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/main.o
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/main.m62871597ca9eb541^6b452397ca9eb541^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/main.m0000000000000000^3704"CompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/main.o main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap" -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/include" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources/armv7" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources" "-F/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch" -MMD -MT dependencies -MF "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/main.d" --serialize-diagnostics "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/main.dia" -c "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/main.m" -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/main.o"36"CC1EB364-7068-41D4-A300-FBF909554755-
+
+CCompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/sourceUtil.o /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/sourceUtil.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s362728086.811890
+e362728086.869753
+r1
+xCompileC
+xBuild/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/sourceUtil.o
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/sourceUtil.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/sourceUtil.c4607d096ca9eb541^eba8de96ca9eb541^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/sourceUtil.c0000000000000000^3432"CompileC Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/sourceUtil.o UtilSrc/sourceUtil.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb -miphoneos-version-min=5.1 -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap" -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/include" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources/armv7" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources" "-F/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-hfulwttdpkycsvgfhebaoczmmwix/LITTLE_GREEN_MEN_Prefix.pch" -MMD -MT dependencies -MF "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/sourceUtil.d" --serialize-diagnostics "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/sourceUtil.dia" -c "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/UtilSrc/sourceUtil.c" -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/sourceUtil.o"36"739261F9-3A26-497D-8C99-29B9E55C8771-
+
+CCompileXIB /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Resources/iPhone/MainWindow.xib
+s362728087.479799
+e362728089.544369
+r1
+xCompileXIB
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Resources/iPhone/MainWindow.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compiling /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Resources/iPhone/MainWindow.xib75e67a97ca9eb541^34658b99ca9eb541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Resources/iPhone/MainWindow.xib0000000000000000^902"CompileXIB Resources/iPhone/MainWindow.xib    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/MainWindow.nib" "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Resources/iPhone/MainWindow.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"14A8F82E-B2DD-49ED-A3CE-CFDE754468D2-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist Build/Products/Release-iphoneos/iPhoneGLEssentials.app/ResourceRules.plist
+s362728086.684745
+e362728086.718407
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+xBuild/Products/Release-iphoneos/iPhoneGLEssentials.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy Build/Products/Release-iphoneos/iPhoneGLEssentials.app/ResourceRules.plistfb5aaf96ca9eb541^9a26b896ca9eb541^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/ResourceRules.plist000000000080d041^936"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist Build/Products/Release-iphoneos/iPhoneGLEssentials.app/ResourceRules.plist    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app"36"6B8131B8-7B8D-42C0-B0B9-29402D87A198-
+
+CCpResource Classes/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/leftArmUpper.jpg
+s362728087.489609
+e362728087.521426
+r1
+xCpResource
+xClasses/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg
+xBuild/Products/Release-iphoneos/iPhoneGLEssentials.app/leftArmUpper.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy Build/Products/Release-iphoneos/iPhoneGLEssentials.app/leftArmUpper.jpgf5657d97ca9eb541^6f848597ca9eb541^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/leftArmUpper.jpg000000000080d041^974"CpResource Classes/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/leftArmUpper.jpg    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Classes/../../../../Desktop/_NEW_MIXED_02_C/NEW_MARC_ANIMATION_JUN_07/_MODEL_FOLDERS_/poseIcons/leftArmUpper.jpg" "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app"36"71E45B10-B30A-484F-ACB1-1536A062104C-
+
+CCpResource _MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm.jpg
+s362728087.488445
+e362728087.490393
+r1
+xCpResource
+x_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg
+xBuild/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm.jpg001a7d97ca9eb541^0d8b7d97ca9eb541^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm.jpg000000000080d041^875"CpResource _MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm.jpg    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm.jpg" "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app"36"EC82F66C-9600-468F-A1E6-D360703F317E-
+
+CCpResource _MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm_DOT3.jpg
+s362728087.480265
+e362728087.489280
+r1
+xCpResource
+x_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg
+xBuild/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm_DOT3.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm_DOT3.jpg0b477c97ca9eb541^ed487d97ca9eb541^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm_DOT3.jpg000000000080d041^890"CpResource _MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftForeArm_DOT3.jpg    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/_MODEL_FOLDERS_/marcParts/marcLeftForeArm/marcLeftForeArm_DOT3.jpg" "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app"36"D6EFF984-91A9-4ED9-AE95-706802754B46-
+
+CCpResource _MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm.jpg
+s362728087.479875
+e362728087.487080
+r1
+xCpResource
+x_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg
+xBuild/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm.jpg7de87a97ca9eb541^1cb77c97ca9eb541^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm.jpg000000000080d041^880"CpResource _MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm.jpg    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm.jpg" "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app"36"DB3E3F64-0FF9-4683-A497-4D3A71189D7C-
+
+CCpResource _MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm_DOT3.jpg
+s362728087.479880
+e362728087.488504
+r1
+xCpResource
+x_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg
+xBuild/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm_DOT3.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm_DOT3.jpg39ec7a97ca9eb541^30137d97ca9eb541^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm_DOT3.jpg000000000080d041^895"CpResource _MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg Build/Products/Release-iphoneos/iPhoneGLEssentials.app/marcLeftUpperArm_DOT3.jpg    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/_MODEL_FOLDERS_/marcParts/marcLeftUpperArm/marcLeftUpperArm_DOT3.jpg" "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app"36"F88BF7E0-D4DC-4BEE-8C20-32787374BE0F-
+
+CGenerateDSYMFile /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app.dSYM /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials
+s362728087.442836
+e362728087.468899
+r1
+xGenerateDSYMFile
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app.dSYM
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Generating /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app.dSYM0bec7197ca9eb541^34f47797ca9eb541^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app.dSYM000000000080d041^724"GenerateDSYMFile Build/Products/Release-iphoneos/iPhoneGLEssentials.app.dSYM Build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/dsymutil "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials" -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app.dSYM"36"4BF9ED96-60DE-4C96-934B-FFF08FC518EF-
+
+CLd /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials normal armv7
+s362728087.379426
+e362728087.436445
+r1
+xLd
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Link /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials50736297ca9eb541^0ebb6f97ca9eb541^---0#0#0#--1276"Ld Build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials normal armv7    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk "-L/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos" "-F/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos" -filelist "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/Objects-normal/armv7/iPhoneGLEssentials.LinkFileList" -dead_strip -miphoneos-version-min=5.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -framework QuartzCore -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials"36"E09DF7A5-93AC-407F-82E0-8029BD4A8AB8-
+
+CProcessInfoPlistFile /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/Info.plist LITTLE_GREEN_MEN-Info.plist
+s362728086.684937
+e362728086.718621
+r1
+xProcessInfoPlistFile
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/Info.plist
+xLITTLE_GREEN_MEN-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Process LITTLE_GREEN_MEN-Info.pliste866af96ca9eb541^952bb896ca9eb541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/LITTLE_GREEN_MEN-Info.plist0000000000000000^896"ProcessInfoPlistFile Build/Products/Release-iphoneos/iPhoneGLEssentials.app/Info.plist LITTLE_GREEN_MEN-Info.plist    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LITTLE_GREEN_MEN-Info.plist -genpkginfo "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/ResourceRules.plist" -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/Info.plist"36"5D6D794A-A43F-49B3-B0A3-5DF42BABA0FA-
+
+CProcessPCH /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch.pth LITTLE_GREEN_MEN_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362728086.729314
+e362728087.073927
+r1
+xProcessPCH
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch.pth
+xLITTLE_GREEN_MEN_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Precompile LITTLE_GREEN_MEN_Prefix.pchaef4ba96ca9eb541^74091397ca9eb541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/LITTLE_GREEN_MEN_Prefix.pch0000000000000000^3623"ProcessPCH Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch.pth LITTLE_GREEN_MEN_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap" -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/include" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources/armv7" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources" "-F/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch.dia" -c "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/LITTLE_GREEN_MEN_Prefix.pch" -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-bdovnrofnhpdlxaayaouvgfutwyy/LITTLE_GREEN_MEN_Prefix.pch.d"36"F1F2C0CF-AB8D-48FD-9A1E-B6036EBDC14F-
+
+CProcessPCH /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-hfulwttdpkycsvgfhebaoczmmwix/LITTLE_GREEN_MEN_Prefix.pch.pth LITTLE_GREEN_MEN_Prefix.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s362728086.730664
+e362728086.801221
+r1
+xProcessPCH
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-hfulwttdpkycsvgfhebaoczmmwix/LITTLE_GREEN_MEN_Prefix.pch.pth
+xLITTLE_GREEN_MEN_Prefix.pch
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Precompile LITTLE_GREEN_MEN_Prefix.pch395fbc96ca9eb541^d523cd96ca9eb541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/LITTLE_GREEN_MEN_Prefix.pch0000000000000000^3299"ProcessPCH Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-hfulwttdpkycsvgfhebaoczmmwix/LITTLE_GREEN_MEN_Prefix.pch.pth LITTLE_GREEN_MEN_Prefix.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DESSENTIAL_GL_PRACTICES_IPHONE_OS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb -miphoneos-version-min=5.1 -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-generated-files.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-own-target-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-all-target-headers.hmap" -iquote "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials-project-headers.hmap" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/include" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources/armv7" "-I/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/DerivedSources" "-F/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-hfulwttdpkycsvgfhebaoczmmwix/LITTLE_GREEN_MEN_Prefix.pch.dia" -c "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/LITTLE_GREEN_MEN_Prefix.pch" -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-hfulwttdpkycsvgfhebaoczmmwix/LITTLE_GREEN_MEN_Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-hfulwttdpkycsvgfhebaoczmmwix/LITTLE_GREEN_MEN_Prefix.pch.d"36"34743A67-1BB1-424C-B373-A6BF27F744FE-
+
+CProcessPCH /Users/marcdion/Library/Developer/Xcode/DerivedData/iPhoneGLEssentials-bvsaqrfbupvxzlegxvcchsldzyoo/Index/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-blrucpbgnizlptdeinnajljfgpay_ast/LITTLE_GREEN_MEN_Prefix.pch.pth LITTLE_GREEN_MEN_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/marcdion/Library/Developer/Xcode/DerivedData/iPhoneGLEssentials-bvsaqrfbupvxzlegxvcchsldzyoo/Index/PrecompiledHeaders/LITTLE_GREEN_MEN_Prefix-fadkjbwwlwpngkaogyphfmfsyfdb_ast/LITTLE_GREEN_MEN_Prefix.pch.pth LITTLE_GREEN_MEN_Prefix.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials.xcent
+s362728089.564568
+e362728089.567960
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection250"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials.xcent249a9099ca9eb541^766b9199ca9eb541^---0#0#0#-19%DVTDocumentLocation2@178"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials.xcent000000000080d041^856"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials.xcent    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist -entitlements -format xml -o "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Intermediates/iPhoneGLEssentials.build/Release-iphoneos/GLEssentials.build/iPhoneGLEssentials.xcent"36"9EB68C16-9292-43AF-823E-3A3571F4CC6D-
+
+CTouch /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app
+s362728089.552405
+e362728089.556576
+r1
+xTouch
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app577a8d99ca9eb541^d3878e99ca9eb541^---0#0#0#--451"Touch Build/Products/Release-iphoneos/iPhoneGLEssentials.app    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app"36"E228CEED-415E-4F33-835C-8BE652FDDF2E-
+
+CValidate /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app
+s362728089.789980
+e362728090.067171
+r1
+xValidate
+x/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app
+owarning: Icon specified in the Info.plist not found under the top level app wrapper: NO (-19007)
+oUnable to validate your application. - (null)
+o
+owarning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)
+oUnable to validate your application. - (null)
+o
+owarning: Application failed codesign verification.  The signature was invalid, contains disallowed entitlements, or it was not signed with an iPhone Distribution Certificate. (-19011)
+oExecutable=/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentials
+oAssertMacros: message,  file: codesign_wrapper.c, line: 554
+oAssertMacros: profile,  file: codesign_wrapper.c, line: 918
+ocodesign_wrapper-0.7.10: Failed to load provision profile from: /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/embedded.mobileprovision
+o - (null)
+o
+owarning: This bundle is invalid. The application-identifier entitlement is not formatted correctly; it should contain your 10-character App ID Seed, followed by a dot, followed by your bundle identifier: com.yourcompany.iPhoneGLEssentials (-19053)
+oUnable to validate your application. - (null)
+o
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Validate Build/Products/Release-iphoneos/iPhoneGLEssentials.app304cca99ca9eb541^c632119aca9eb541^-1355"warning: Icon specified in the Info.plist not found under the top level app wrapper: NO (-19007)Unable to validate your application. - (null)warning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)Unable to validate your application. - (null)warning: Application failed codesign verification.  The signature was invalid, contains disallowed entitlements, or it was not signed with an iPhone Distribution Certificate. (-19011)Executable=/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/build/Products/Release-iphoneos/iPhoneGLEssentials.app/iPhoneGLEssentialsAssertMacros: message,  file: codesign_wrapper.c, line: 554AssertMacros: profile,  file: codesign_wrapper.c, line: 918codesign_wrapper-0.7.10: Failed to load provision profile from: /Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/embedded.mobileprovision - (null)warning: This bundle is invalid. The application-identifier entitlement is not formatted correctly; it should contain your 10-character App ID Seed, followed by a dot, followed by your bundle identifier: com.yourcompany.iPhoneGLEssentials (-19053)Unable to validate your application. - (null)4(21%IDEActivityLogMessage2@88" Icon specified in the Info.plist not found under the top level app wrapper: NO (-19007)78"Icon specified in the Info.plist not found under the top level app wrapper: NO362728089#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---2@202" iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)192"IPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57362728089#18446744073709551615#0#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---2@175" Application failed codesign verification.  The signature was invalid, contains disallowed entitlements, or it was not signed with an iPhone Distribution Certificate. (-19011)165"Application failed codesign verification.  The signature was invalid, contains disallowed entitlements, or it was not signed with an iPhone Distribution Certificate.362728089#18446744073709551615#0#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---2@239" This bundle is invalid. The application-identifier entitlement is not formatted correctly; it should contain your 10-character App ID Seed, followed by a dot, followed by your bundle identifier: com.yourcompany.iPhoneGLEssentials (-19053)229"This bundle is invalid. The application-identifier entitlement is not formatted correctly; it should contain your 10-character App ID Seed, followed by a dot, followed by your bundle identifier: com.yourcompany.iPhoneGLEssentials362728089#18446744073709551615#0#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@128"file://localhost/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app/0000000000000000^595"Validate Build/Products/Release-iphoneos/iPhoneGLEssentials.app    cd "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation "/Users/marcdion/Documents/iPhone/!!!!!!_GLEssentials_6!2/Build/Products/Release-iphoneos/iPhoneGLEssentials.app"36"D5625C37-4968-44D7-9EB8-697332A7665D-
+

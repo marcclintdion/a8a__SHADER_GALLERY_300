@@ -1,0 +1,33 @@
+# Project: Project2
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = RunGL.o cpp/WGL_ARB_multisample.o $(RES)
+LINKOBJ  = RunGL.o cpp/WGL_ARB_multisample.o $(RES)
+LIBS =  -L"C:/winebottler/lib" -mwindows 0_0_1_AA_commonLib/fmod.lib 0_0_1_AA_commonLib/FreeImage.lib 0_0_1_AA_commonLib/libddraw.a 0_0_1_AA_commonLib/libEGL.lib 0_0_1_AA_commonLib/libglaux.a 0_0_1_AA_commonLib/libGLESv2.lib 0_0_1_AA_commonLib/libglu32.a 0_0_1_AA_commonLib/libglut32.a 0_0_1_AA_commonLib/libopenal32.a 0_0_1_AA_commonLib/libopengl32.a 0_0_1_AA_commonLib/libwinmm.a  
+INCS =  -I"C:/winebottler/include" 
+CXXINCS =  -I"C:/winebottler/lib/gcc/mingw32/3.4.2/include"  -I"C:/winebottler/include/c++/3.4.2/backward"  -I"C:/winebottler/include/c++/3.4.2/mingw32"  -I"C:/winebottler/include/c++/3.4.2"  -I"C:/winebottler/include" 
+BIN  = LITTLE_GREEN_MEN.exe
+CXXFLAGS = $(CXXINCS) -Wno-deprecated  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before LITTLE_GREEN_MEN.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "LITTLE_GREEN_MEN.exe" $(LIBS)
+
+RunGL.o: RunGL.cpp
+	$(CPP) -c RunGL.cpp -o RunGL.o $(CXXFLAGS)
+
+cpp/WGL_ARB_multisample.o: cpp/WGL_ARB_multisample.cpp
+	$(CPP) -c cpp/WGL_ARB_multisample.cpp -o cpp/WGL_ARB_multisample.o $(CXXFLAGS)
